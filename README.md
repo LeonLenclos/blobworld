@@ -1,3 +1,5 @@
+![cover image](cover.png)
+
 # Blobworld
 
 Use the arrow keys to move and the space bar to wait.
